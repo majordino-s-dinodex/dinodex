@@ -1,0 +1,2463 @@
+{
+    "dinossauros": [
+        {
+            "nome": {
+                "base": "Achillobator",
+                "genero": "Achillobator",
+                "especies": ["giganticus"],
+                "significado": "Herói de Aquiles"
+            },
+            "comida": "Carnívoro",
+            "familia": "Dromaeosauridae",
+            "imagem": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Achillobator_reconstruction.png/1920px-Achillobator_reconstruction.png",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 1.7,
+                "altura_maxima": 1.7,
+                "comprimento_minimo": 5.0,
+                "comprimento_maximo": 6.0,
+                "peso_minimo": 230,
+                "peso_maximo": 230,
+                "tempo_minimo": 89,
+                "tempo_maximo": 96,
+                "velocidade": 40
+            },
+            "onde_viveu": "Mongólia"
+        },
+        {
+            "nome": {
+                "base": "Acrocantossauro",
+                "genero": "Acrocanthosaurus",
+                "especies": ["atokensis"],
+                "significado": "Lagarto de Espinhos Altos"
+            },
+            "comida": "Carnívoro",
+            "familia": "Carcharodontosauridae",
+            "imagem": {
+                "url": "https://pre00.deviantart.net/cfd2/th/pre/f/2016/219/7/4/acrocanthosaurus_by_manuelsaurus-dacyh3b.jpg",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 4.0,
+                "altura_maxima": 4.0,
+                "comprimento_minimo": 11.5,
+                "comprimento_maximo": 11.5,
+                "mordida": 16894,
+                "peso_minimo": 6000,
+                "peso_maximo": 6000,
+                "tempo_minimo": 112,
+                "tempo_maximo": 116,
+                "velocidade": 32
+            },
+            "onde_viveu": "Canadá, Estados Unidos"
+        },
+        {
+            "nome": {
+                "base": "Albertossauro",
+                "genero": "Albertosaurus",
+                "especies": ["sarcophagus"],
+                "significado": "Lagarto de Alberta"
+            },
+            "comida": "Carnívoro",
+            "familia": "Carcharodontosauridae",
+            "imagem": {
+                "url": "https://vignette.wikia.nocookie.net/dino/images/6/61/3100939_orig.png/revision/latest?cb=20150911215501",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 3.0,
+                "altura_maxima": 3.5,
+                "comprimento_minimo": 9.0,
+                "comprimento_maximo": 10.0,
+                "mordida": 3413,
+                "peso_minimo": 3000,
+                "peso_maximo": 4000,
+                "tempo_minimo": 66,
+                "tempo_maximo": 75,
+                "velocidade": 21
+            },
+            "onde_viveu": "Canadá, Estados Unidos"
+        },
+        {
+            "nome": {
+                "base": "Alectrossauro",
+                "genero": "Alectrosaurus",
+                "especies": ["olseni"],
+                "significado": "Lagarto Solitário"
+            },
+            "comida": "Carnívoro",
+            "familia": "Tyrannosauroidea",
+            "imagem": {
+                "url": "https://media.discordapp.net/attachments/399044216904220674/600797874334203907/Alectrosaurus.png?ex=66033b1f&is=65f0c61f&hm=51403d0c966ca0355f8448dced14dce074d4beec75f9959eb39f9c233cc82c06&=&format=webp&quality=lossless&width=1040&height=662",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 2.0,
+                "altura_maxima": 2.0,
+                "comprimento_minimo": 5.0,
+                "comprimento_maximo": 5.0,
+                "peso_minimo": 1000,
+                "peso_maximo": 1000,
+                "tempo_minimo": 74,
+                "tempo_maximo": 83,
+                "velocidade": 21
+            },
+            "onde_viveu": "Cazaquistão, China, Mongólia, Quirguistão, Tajiquistão, Uzbequistão"
+        },
+        {
+            "nome": {
+                "base": "Alossauro",
+                "genero": "Allosaurus",
+                "especies": ["europaeus", "fragilis", "jimmadseni"],
+                "significado": "Lagarto Diferente",
+                "sinonimos": ["Antrodemus", "Apatodon", "Creosaurus", "Epanterias", "Labrosaurus", "Madsenius", "Wyomingraptor"]
+            },
+            "comida": "Carnívoro",
+            "familia": "Allosauridae",
+            "imagem": {
+                "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2d01f931-5128-414a-97c7-ec5e31491855/dcv08yi-2b6b934f-be4c-4347-997a-31ac7e8c8bb6.png/v1/fill/w_1280,h_569,strp/the_isle_allosaurus_transparent__by_jacksondeans_dcv08yi-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTY5IiwicGF0aCI6IlwvZlwvMmQwMWY5MzEtNTEyOC00MTRhLTk3YzctZWM1ZTMxNDkxODU1XC9kY3YwOHlpLTJiNmI5MzRmLWJlNGMtNDM0Ny05OTdhLTMxYWM3ZThjOGJiNi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.xUake_7McYdilZAiretUkvccTXbf4oY_f76jsWKcDuo",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 2.0,
+                "altura_maxima": 3.0,
+                "comprimento_minimo": 7.0,
+                "comprimento_maximo": 9.7,
+                "mordida": 8724,
+                "peso_minimo": 1000,
+                "peso_maximo": 2000,
+                "tempo_minimo": 145,
+                "tempo_maximo": 155,
+                "velocidade": 34
+            },
+            "onde_viveu": "Canadá, Estados Unidos"
+        },
+        {
+            "nome": {
+                "base": "Amargassauro",
+                "genero": "Amargasaurus",
+                "especies": ["cazaui"],
+                "significado": "Lagarto de La Amarga"
+            },
+            "comida": "Herbívoro",
+            "familia": "Sauropod",
+            "imagem": {
+                "url": "https://vignette.wikia.nocookie.net/dinosaurs/images/a/a6/6cfd607fb1d5d1e5732a73349902ff7c.jpg/revision/latest?cb=20180206024705",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 2.7,
+                "altura_maxima": 3.5,
+                "comprimento_minimo": 9.0,
+                "comprimento_maximo": 10.0,
+                "peso_minimo": 3000,
+                "peso_maximo": 3000,
+                "tempo_minimo": 122,
+                "tempo_maximo": 129,
+                "velocidade": 17
+            },
+            "onde_viveu": "Argentina"
+        },
+        {
+            "nome": {
+                "base": "Anquilossauro",
+                "genero": "Ankylosaurus",
+                "especies": ["magniventris"],
+                "significado": "Lagarto Fundido"
+            },
+            "comida": "Herbívoro",
+            "familia": "Ankylosauridae",
+            "imagem": {
+                "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2d01f931-5128-414a-97c7-ec5e31491855/dcyx1hq-0152cf38-a941-466d-900a-a4d054909e52.png/v1/fill/w_1280,h_525,strp/saurian_ankylosaurus_transparent__by_jacksondeans_dcyx1hq-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTI1IiwicGF0aCI6IlwvZlwvMmQwMWY5MzEtNTEyOC00MTRhLTk3YzctZWM1ZTMxNDkxODU1XC9kY3l4MWhxLTAxNTJjZjM4LWE5NDEtNDY2ZC05MDBhLWE0ZDA1NDkwOWU1Mi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Ru7HvHJmYwkGVB6roi5WVPi3kKBY8-H8B2Rw-RJM4JY",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 2.0,
+                "altura_maxima": 2.0,
+                "comprimento_minimo": 7.0,
+                "comprimento_maximo": 9.0,
+                "peso_minimo": 4000,
+                "peso_maximo": 7000,
+                "tempo_minimo": 66,
+                "tempo_maximo": 68,
+                "velocidade": 7
+            },
+            "onde_viveu": "Canadá, Estados Unidos"
+        },
+        {
+            "nome": {
+                "base": "Apatossauro",
+                "genero": "Apatosaurus",
+                "especies": ["ajax", "louisae"],
+                "significado": "Lagarto Enganoso",
+                "sinonimos": "Atlantosaurus"
+            },
+            "comida": "Herbívoro",
+            "familia": "Diplodocidae",
+            "imagem": {
+                "url": "https://i.pinimg.com/originals/1e/11/c9/1e11c9789d29299e15dd8f7566f4ec77.png",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 8.0,
+                "altura_maxima": 9.0,
+                "comprimento_minimo": 21.0,
+                "comprimento_maximo": 23.0,
+                "peso_minimo": 16000,
+                "peso_maximo": 32000,
+                "tempo_minimo": 150,
+                "tempo_maximo": 152,
+                "velocidade": 20
+            },
+            "onde_viveu": "Estados Unidos"
+        },
+        {
+            "nome": {
+                "base": "Appalachiossauro",
+                "genero": "Appalachiosaurus",
+                "especies": ["montgomeriensis"],
+                "significado": "Lagarto dos Apalaches"
+            },
+            "comida": "Carnívoro Raro",
+            "familia": "Eutyrannosauria",
+            "imagem": {
+                "url": "https://images.dinosaurpictures.org/Appalachiosaurus-FunkMonk-1024x416_4b72.jpg",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 1.2,
+                "altura_maxima": 2.0,
+                "comprimento_minimo": 6.4,
+                "comprimento_maximo": 7.0,
+                "peso_minimo": 600,
+                "peso_maximo": 600,
+                "tempo_minimo": 76,
+                "tempo_maximo": 80,
+                "velocidade": 21
+            },
+            "onde_viveu": "Estados Unidos"
+        },
+        {
+            "nome": {
+                "base": "Argentinossauro",
+                "genero": "Argentinosaurus",
+                "especies": ["huinculensis"],
+                "significado": "Lagarto Argentino"
+            },
+            "comida": "Herbívoro Lendário",
+            "familia": "Titanosauridae",
+            "imagem": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Argentinosaurus_BW.jpg",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 20.0,
+                "altura_maxima": 20.0,
+                "comprimento_minimo": 28.0,
+                "comprimento_maximo": 35.0,
+                "peso_minimo": 65000,
+                "peso_maximo": 70000,
+                "tempo_minimo": 93,
+                "tempo_maximo": 97,
+                "velocidade": 7
+            },
+            "onde_viveu": "Argentina"
+        },
+        {
+            "nome": {
+                "base": "Australovenator",
+                "genero": "Australovenator",
+                "especies": ["wintonensis"],
+                "significado": "Caçador do Sul"
+            },
+            "comida": "Carnívoro",
+            "familia": "Megaraptoridae",
+            "imagem": {
+                "url": "https://blogs.qut.edu.au/cube-chat/files/2016/01/australovenator.png",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 1.8,
+                "altura_maxima": 1.8,
+                "comprimento_minimo": 6.0,
+                "comprimento_maximo": 6.0,
+                "peso_minimo": 500,
+                "peso_maximo": 500,
+                "tempo_minimo": 93,
+                "tempo_maximo": 99,
+                "velocidade": 48
+            },
+            "onde_viveu": "Austrália"
+        },
+        {
+            "nome": {
+                "base": "Austroposeidon",
+                "genero": "Austroposeidon",
+                "especies": ["magnificus"],
+                "significado": "Mestre dos Mares do Sul"
+            },
+            "comida": "Herbívoro Raro",
+            "familia": "Sauropod",
+            "imagem": {
+                "url": "https://media.discordapp.net/attachments/584863089099276293/620650812506636327/austroposeidon_by_dino.png?ex=660adb1c&is=65f8661c&hm=d0a16d22d96cc24dac7a141931659ab45ce42e4fd7a3ec941541bc66a04699fa&=&format=webp&quality=lossless&width=1258&height=662",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 10.0,
+                "altura_maxima": 10.0,
+                "comprimento_minimo": 25.0,
+                "comprimento_maximo": 25.0,
+                "peso_minimo": 30000,
+                "peso_maximo": 30000,
+                "tempo_minimo": 66,
+                "tempo_maximo": 70,
+                "velocidade": 8
+            },
+            "onde_viveu": "Brasil"
+        },
+        {
+            "nome": {
+                "base": "Austroraptor",
+                "genero": "Austroraptor",
+                "especies": ["cabazai"],
+                "significado": "Ladrão do Sul"
+            },
+            "comida": "Piscívoro/Carnívoro",
+            "familia": "Dromaeosauridae",
+            "imagem": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Austroraptor_Restoration_%28flipped%29.png",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 2.0,
+                "altura_maxima": 2.0,
+                "comprimento_minimo": 5.0,
+                "comprimento_maximo": 6.0,
+                "peso_minimo": 90,
+                "peso_maximo": 250,
+                "tempo_minimo": 66,
+                "tempo_maximo": 78,
+                "velocidade": 47
+            },
+            "onde_viveu": "Argentina"
+        },
+        {
+            "nome": {
+                "base": "Bajadassauro",
+                "genero": "Bajadasaurus",
+                "especies": ["pronuspinax"],
+                "significado": "Lagarto de Bajada"
+            },
+            "comida": "Herbívoro",
+            "familia": "Sauropod",
+            "imagem": {
+                "url": "https://pbs.twimg.com/media/FePmcJFWQAscGFc.jpg:large",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 3.5,
+                "altura_maxima": 4.0,
+                "comprimento_minimo": 10.0,
+                "comprimento_maximo": 12.0,
+                "peso_minimo": 9000,
+                "peso_maximo": 9000,
+                "tempo_minimo": 145,
+                "tempo_maximo": 132,
+                "velocidade": 17
+            },
+            "onde_viveu": "Argentina"
+        },
+        {
+            "nome": {
+                "base": "Barionix",
+                "genero": "Baryonyx",
+                "especies": ["walkeri"],
+                "significado": "Garra Pesada"
+            },
+            "comida": "Piscívoro/Carnívoro",
+            "familia": "Spinosauridae",
+            "imagem": {
+                "url": "https://vignette.wikia.nocookie.net/dinosaurs/images/a/a6/Baryonyx_Jurassic_World.png/revision/latest?cb=20150303181127",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 2.5,
+                "altura_maxima": 2.5,
+                "comprimento_minimo": 7.5,
+                "comprimento_maximo": 10.0,
+                "peso_minimo": 1000,
+                "peso_maximo": 2000,
+                "tempo_minimo": 125,
+                "tempo_maximo": 130,
+                "velocidade": 41
+            },
+            "onde_viveu": "Espanha, Inglaterra"
+        },
+        {
+            "nome": {
+                "base": "Barsboldia",
+                "genero": "Barsboldia",
+                "especies": ["sicinskii"],
+                "significado": "De Barsbold"
+            },
+            "comida": "Herbívoro",
+            "familia": "Hadrosauridae",
+            "imagem": {
+                "url": "https://66.media.tumblr.com/eee075e149e5c77674e8a386706dee45/tumblr_inline_off6edmjrm1rx4yme_640.png",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 4.0,
+                "altura_maxima": 4.0,
+                "comprimento_minimo": 12.0,
+                "comprimento_maximo": 14.0,
+                "peso_minimo": 5000,
+                "peso_maximo": 5000,
+                "tempo_minimo": 70,
+                "tempo_maximo": 75,
+                "velocidade": 24
+            },
+            "onde_viveu": "Mongólia"
+        },
+        {
+            "nome": {
+                "base": "Borealopelta",
+                "genero": "Borealopelta",
+                "especies": ["markmitchelli"],
+                "significado": "Escudo do Norte"
+            },
+            "comida": "Herbívoro Raro",
+            "familia": "Nodosauridae",
+            "imagem": {
+                "url": "https://imgix.bustle.com/inverse/bf/b0/fe/9c/7e48/4188/b4ec/ba1ba620e6cc/borealopelta-markmitchelli-was-a-ginger-new-science-discovers.jpeg",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 1.5,
+                "altura_maxima": 1.5,
+                "comprimento_minimo": 5.5,
+                "comprimento_maximo": 6.0,
+                "peso_minimo": 1100,
+                "peso_maximo": 1300,
+                "tempo_minimo": 110,
+                "tempo_maximo": 112,
+                "velocidade": 9
+            },
+            "onde_viveu": "Canadá"
+        },
+        {
+            "nome": {
+                "base": "Braquiossauro",
+                "genero": "Brachiosaurus",
+                "especies": ["altithorax"],
+                "significado": "Lagarto Braço"
+            },
+            "comida": "Herbívoro",
+            "familia": "Sauropod",
+            "imagem": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Brachiosaurus_altithorax_side_profile.png/1280px-Brachiosaurus_altithorax_side_profile.png",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 12.0,
+                "altura_maxima": 13.0,
+                "comprimento_minimo": 18.0,
+                "comprimento_maximo": 22.0,
+                "peso_minimo": 52000,
+                "peso_maximo": 58000,
+                "tempo_minimo": 150,
+                "tempo_maximo": 154,
+                "velocidade": 11
+            },
+            "onde_viveu": "Estados Unidos"
+        },
+        {
+            "nome": {
+                "base": "Carcarodontossauro",
+                "genero": "Carcharodontosaurus",
+                "especies": ["saharicus"],
+                "significado": "Lagarto com Dentes de Tubarão"
+            },
+            "comida": "Carnívoro",
+            "familia": "Carcharodontosauridae",
+            "imagem": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Carcharodontosaurus.png",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 4.0,
+                "altura_maxima": 4.0,
+                "comprimento_minimo": 12.0,
+                "comprimento_maximo": 12.8,
+                "peso_minimo": 6600,
+                "peso_maximo": 7800,
+                "tempo_minimo": 94,
+                "tempo_maximo": 99,
+                "velocidade": 32
+            },
+            "onde_viveu": "Brasil, Argélia, Egito, Marrocos, Níger"
+        },
+        {
+            "nome": {
+                "base": "Carnotauro",
+                "genero": "Carnotaurus",
+                "especies": ["sastrei"],
+                "significado": "Touro Carnívoro"
+            },
+            "comida": "Carnívoro",
+            "familia": "Abelisauridae",
+            "imagem": {
+                "url": "https://cdnb.artstation.com/p/assets/images/images/050/892/869/large/frederic-wierum-c1.jpg?1655934575",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 2.0,
+                "altura_maxima": 3.0,
+                "comprimento_minimo": 7.0,
+                "comprimento_maximo": 8.0,
+                "peso_minimo": 1000,
+                "peso_maximo": 1000,
+                "tempo_minimo": 70,
+                "tempo_maximo": 72,
+                "velocidade": 52
+            },
+            "onde_viveu": "Argentina"
+        },
+        {
+            "nome": {
+                "base": "Ceratossauro",
+                "genero": "Ceratosaurus",
+                "especies": ["nasicornis"],
+                "significado": "Lagarto com Chifres"
+            },
+            "comida": "Carnívoro",
+            "familia": "Ceratosauridae",
+            "imagem": {
+                "url": "https://media.discordapp.net/attachments/399044216904220674/732436750185660516/ceratosaurus.png?ex=660b79e1&is=65f904e1&hm=e1606de6f339d1e974c09b73c02007ac8abde104f91772ed616c9a421dc0831e&=&format=webp&quality=lossless&width=1500&height=600",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 2.0,
+                "altura_maxima": 2.0,
+                "comprimento_minimo": 5.0,
+                "comprimento_maximo": 7.0,
+                "peso_minimo": 400,
+                "peso_maximo": 700,
+                "tempo_minimo": 146,
+                "tempo_maximo": 161,
+                "velocidade": 36
+            },
+            "onde_viveu": "Estados Unidos, Tanzânia, Portugal"
+        },
+        {
+            "nome": {
+                "base": "Concavenator",
+                "genero": "Concavenator",
+                "especies": ["corcovatus"],
+                "significado": "Caçador de Cuenca"
+            },
+            "comida": "Carnívoro",
+            "familia": "Carcharodontosauridae",
+            "imagem": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Concavenator_reconstruction.png",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 2.0,
+                "altura_maxima": 2.5,
+                "comprimento_minimo": 6.0,
+                "comprimento_maximo": 6.0,
+                "peso_minimo": 1000,
+                "peso_maximo": 1000,
+                "tempo_minimo": 125,
+                "tempo_maximo": 130,
+                "velocidade": 36
+            },
+            "onde_viveu": "Espanha"
+        },
+        {
+            "nome": {
+                "base": "Coronossauro",
+                "genero": "Coronosaurus",
+                "especies": ["brinkmani"],
+                "significado": "Lagarto Coroado"
+            },
+            "comida": "Herbívoro Raro",
+            "familia": "Hadrosauridae",
+            "imagem": {
+                "url": "https://media.discordapp.net/attachments/399044216904220674/699039183112634438/coronosaurus.png?ex=6609f278&is=65f77d78&hm=fad1c59f0e2086a201563cfede14bce75fb8eb5997e213071e89a6b52185420e&=&format=webp&quality=lossless&width=1432&height=662",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 1.8,
+                "altura_maxima": 2.0,
+                "comprimento_minimo": 5.0,
+                "comprimento_maximo": 5.0,
+                "peso_minimo": 2000,
+                "peso_maximo": 2000,
+                "tempo_minimo": 76,
+                "tempo_maximo": 80,
+                "velocidade": 21
+            },
+            "onde_viveu": "Canadá"
+        },
+        {
+            "nome": {
+                "base": "Criolofossauro",
+                "genero": "Cryolophosaurus",
+                "especies": ["ellioti"],
+                "significado": "Lagarto de Crista Congelada"
+            },
+            "comida": "Carnívoro",
+            "familia": "Carcharodontosauridae",
+            "imagem": {
+                "url": "https://cdnb.artstation.com/p/assets/images/images/001/982/525/large/cole-maldonado-chr033crylohrez.jpg?1455541640",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 2.0,
+                "altura_maxima": 2.5,
+                "comprimento_minimo": 6.0,
+                "comprimento_maximo": 7.7,
+                "peso_minimo": 350,
+                "peso_maximo": 780,
+                "tempo_minimo": 188,
+                "tempo_maximo": 194,
+                "velocidade": 51
+            },
+            "onde_viveu": "Austrália, Antártida"
+        },
+        {
+            "nome": {
+                "base": "Dakotaraptor",
+                "genero": "Dakotaraptor",
+                "especies": ["steini"],
+                "significado": "Ladrão de Dakota"
+            },
+            "comida": "Carnívoro Raro",
+            "familia": "Dromaeosauridae",
+            "imagem": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Dakotaraptor_wiki_%28white_background%29.jpg",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 1.6,
+                "altura_maxima": 1.8,
+                "comprimento_minimo": 5.0,
+                "comprimento_maximo": 5.5,
+                "peso_minimo": 220,
+                "peso_maximo": 350,
+                "tempo_minimo": 66,
+                "tempo_maximo": 70,
+                "velocidade": 45
+            },
+            "onde_viveu": "Canadá, Estados Unidos"
+        },
+        {
+            "nome": {
+                "base": "Daspletossauro",
+                "genero": "Daspletosaurus",
+                "especies": ["torosus"],
+                "significado": "Lagarto Assustador"
+            },
+            "comida": "Carnívoro",
+            "familia": "Tyrannosauridae",
+            "imagem": {
+                "url": "https://media.discordapp.net/attachments/399044216904220674/698396442259095582/daspletosaurus.png?ex=66079bdf&is=65f526df&hm=31183204c42102151e7e3ac861dc23022672d685aa85713b2e3d989db559a6ff&=&format=webp&quality=lossless&width=1598&height=656",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 2.5,
+                "altura_maxima": 3.6,
+                "comprimento_minimo": 8.0,
+                "comprimento_maximo": 9.0,
+                "peso_minimo": 1800,
+                "peso_maximo": 3800,
+                "tempo_minimo": 74,
+                "tempo_maximo": 77,
+                "velocidade": 34
+            },
+            "onde_viveu": "Canadá, Estados Unidos"
+        },
+        {
+            "nome": {
+                "base": "Deinonico",
+                "genero": "Deinonychus",
+                "especies": ["antirrophus"],
+                "significado": "Garra Terrível"
+            },
+            "comida": "Carnívoro",
+            "familia": "Dromaeosauridae",
+            "imagem": {
+                "url": "https://vignette.wikia.nocookie.net/harrypotterfanon/images/4/4e/Deinonychus.png/revision/latest?cb=20190126204443",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 1.0,
+                "altura_maxima": 1.5,
+                "comprimento_minimo": 3.4,
+                "comprimento_maximo": 3.7,
+                "peso_minimo": 70,
+                "peso_maximo": 90,
+                "tempo_minimo": 108,
+                "tempo_maximo": 115,
+                "velocidade": 32
+            },
+            "onde_viveu": "Estados Unidos"
+        },
+        {
+            "nome": {
+                "base": "Deinoqueiro",
+                "genero": "Deinocheirus",
+                "especies": ["mirificus"],
+                "significado": "Mão Terrível"
+            },
+            "comida": "Piscívoro/Herbívoro",
+            "familia": "Deinocheiridae",
+            "imagem": {
+                "url": "https://media.discordapp.net/attachments/399044216904220674/698396438148677662/deinocheirus.png?ex=66079bde&is=65f526de&hm=1c23c35f388e23456238f83ee60229826c7f22412c7d759050b10771e65e3dfc&=&format=webp&quality=lossless&width=1215&height=533",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 3.3,
+                "altura_maxima": 3.6,
+                "comprimento_minimo": 11.5,
+                "comprimento_maximo": 12.0,
+                "peso_minimo": 6500,
+                "peso_maximo": 7000,
+                "tempo_minimo": 69,
+                "tempo_maximo": 71,
+                "velocidade": 27
+            },
+            "onde_viveu": "Mongólia"
+        },
+        {
+            "nome": {
+                "base": "Dilofossauro",
+                "genero": "Dilophosaurus",
+                "especies": ["wetherilli"],
+                "significado": "Lagarto com Duas Cristas"
+            },
+            "comida": "Carnívoro",
+            "familia": "Dilophosauridae",
+            "imagem": {
+                "url": "https://media.discordapp.net/attachments/405421768254423051/595675152759390208/Dilopho.png?ex=660c47b7&is=65f9d2b7&hm=e55d2edf43171e4979cd8f3113f08a9b19646f22c51f8272e70b6291819a9206&=&format=webp&quality=lossless&width=1133&height=662",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 1.3,
+                "altura_maxima": 1.5,
+                "comprimento_minimo": 6.0,
+                "comprimento_maximo": 6.0,
+                "peso_minimo": 300,
+                "peso_maximo": 450,
+                "tempo_minimo": 193,
+                "tempo_maximo": 201,
+                "velocidade": 38
+            },
+            "onde_viveu": "Estados Unidos, China, Índia"
+        },
+        {
+            "nome": {
+                "base": "Diplódoco",
+                "genero": "Diplodocus",
+                "especies": ["carnegii", "hallorum", "longus"],
+                "significado": "Viga Dupla"
+            },
+            "comida": "Herbívoro",
+            "familia": "Diplodocidae",
+            "imagem": {
+                "url": "https://vignette.wikia.nocookie.net/dinosaurs/images/8/87/Diplodocus_whole_amzt6e.png/revision/latest?cb=20151008222818",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 6.0,
+                "altura_maxima": 7.0,
+                "comprimento_minimo": 24.0,
+                "comprimento_maximo": 33.5,
+                "peso_minimo": 12000,
+                "peso_maximo": 23000,
+                "tempo_minimo": 150,
+                "tempo_maximo": 154,
+                "velocidade": 21
+            },
+            "onde_viveu": "Estados Unidos"
+        },
+        {
+            "nome": {
+                "base": "Dreadnoughtus",
+                "genero": "Dreadnoughtus",
+                "especies": ["schrani"],
+                "significado": "Aquele que Não Tem Medo"
+            },
+            "comida": "Herbívoro",
+            "familia": "Titanosauridae",
+            "imagem": {
+                "url": "https://media.discordapp.net/attachments/399044216904220674/681331618262155271/dreadnoughtus.png?ex=660a2084&is=65f7ab84&hm=2c7835645b679fbbb4a24ec4fa153ce4825f1a73b6ae36c25ef389b74394bfca&=&format=webp&quality=lossless&width=1137&height=603",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 18.0,
+                "altura_maxima": 18.2,
+                "comprimento_minimo": 26.0,
+                "comprimento_maximo": 30.0,
+                "peso_minimo": 48000,
+                "peso_maximo": 49000,
+                "tempo_minimo": 77,
+                "tempo_maximo": 83,
+                "velocidade": 16
+            },
+            "onde_viveu": "Argentina"
+        },
+        {
+            "nome": {
+                "base": "Dromeossauro",
+                "genero": "Dromaeosaurus",
+                "especies": ["albertensis"],
+                "significado": "Lagarto Corredor"
+            },
+            "comida": "Carnívoro",
+            "familia": "Dromaeosauridae",
+            "imagem": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Dromaeosaurus_Restoration.png",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 0.7,
+                "altura_maxima": 0.8,
+                "comprimento_minimo": 2.0,
+                "comprimento_maximo": 2.0,
+                "peso_minimo": 15,
+                "peso_maximo": 25,
+                "tempo_minimo": 74,
+                "tempo_maximo": 76,
+                "velocidade": 42
+            },
+            "onde_viveu": "Canadá, Estados Unidos"
+        },
+        {
+            "nome": {
+                "base": "Edmontonia",
+                "genero": "Edmontonia",
+                "especies": ["longiceps"],
+                "significado": "De Edmonton"
+            },
+            "comida": "Herbívoro",
+            "familia": "Nodosauridae",
+            "imagem": {
+                "url": "https://vignette.wikia.nocookie.net/dinosaurs/images/7/75/Large-anklosaur_dino.png/revision/latest?cb=20131017231744",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 2.0,
+                "altura_maxima": 2.0,
+                "comprimento_minimo": 7.0,
+                "comprimento_maximo": 7.0,
+                "peso_minimo": 3000,
+                "peso_maximo": 4000,
+                "tempo_minimo": 74,
+                "tempo_maximo": 77,
+                "velocidade": 9
+            },
+            "onde_viveu": "Canadá, Estados Unidos"
+        },
+        {
+            "nome": {
+                "base": "Edmontossauro",
+                "genero": "Edmontosaurus",
+                "especies": ["annectens", "regalis"],
+                "significado": "Lagarto de Edmonton"
+            },
+            "comida": "Herbívoro",
+            "familia": "Hadrosauridae",
+            "imagem": {
+                "url": "https://media.discordapp.net/attachments/399044216904220674/595385444414521374/Edmontosaururs.png?ex=660b39e7&is=65f8c4e7&hm=cec8a0d9f3fdefe1a4cb8a08f5c0453ca3ed0f0761386cb9378c244ee5a38643&=&format=webp&quality=lossless&width=1285&height=662",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 3.0,
+                "altura_maxima": 4.0,
+                "comprimento_minimo": 12.0,
+                "comprimento_maximo": 13.0,
+                "peso_minimo": 4000,
+                "peso_maximo": 4000,
+                "tempo_minimo": 66,
+                "tempo_maximo": 73,
+                "velocidade": 45
+            },
+            "onde_viveu": "Canadá, Estados Unidos"
+        },
+        {
+            "nome": {
+                "base": "Einiossauro",
+                "genero": "Einiosaurus",
+                "especies": ["procurvicornis"],
+                "significado": "Lagarto Bisão"
+            },
+            "comida": "Herbívoro",
+            "familia": "Ceratopsidae",
+            "imagem": {
+                "url": "https://static.wikia.nocookie.net/novum-terram/images/4/4f/Einiosaurus_%28SciiFii%29.png/revision/latest?cb=20200823001119",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 1.7,
+                "altura_maxima": 1.7,
+                "comprimento_minimo": 4.5,
+                "comprimento_maximo": 4.5,
+                "peso_minimo": 1300,
+                "peso_maximo": 1300,
+                "tempo_minimo": 74,
+                "tempo_maximo": 75,
+                "velocidade": 22
+            },
+            "onde_viveu": "Estados Unidos"
+        },
+        {
+            "nome": {
+                "base": "Espinossauro",
+                "genero": "Spinosaurus",
+                "especies": ["aegyptiacus"],
+                "significado": "Lagarto Espinho",
+                "sinonimos": ["Sigilmassasaurus brevicollis", "Oxalaia quilombensis"]
+            },
+            "comida": "Piscívoro/Carnívoro",
+            "familia": "Spinosauridae",
+            "imagem": {
+                "url": "https://ctsciencecenter.org/wp-content/uploads/2021/03/pasted-image-0-2.png",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 4.0,
+                "altura_maxima": 4.5,
+                "comprimento_minimo": 13.0,
+                "comprimento_maximo": 14.0,
+                "peso_minimo": 6600,
+                "peso_maximo": 7400,
+                "tempo_minimo": 93,
+                "tempo_maximo": 99,
+                "velocidade": 21
+            },
+            "onde_viveu": "Brasil, Argélia, Egito, Marrocos, Tunísia"
+        },
+        {
+            "nome": {
+                "base": "Estegossauro",
+                "genero": "Stegosaurus",
+                "especies": ["stenops", "sulcatus", "ungulatus"],
+                "significado": "Lagarto Telhado",
+                "sinonimos": ["Diracodon"]
+            },
+            "comida": "Herbívoro",
+            "familia": "Stegosauridae",
+            "imagem": {
+                "url": "https://media.discordapp.net/attachments/584863089099276293/602934385364172800/stegosaurus_by_fredthedinosaurman.png?ex=660b00e7&is=65f88be7&hm=4c88181593f774c48693521230889e8c46c43dcc6c775e5569227e00540987ef&=&format=webp&quality=lossless&width=1177&height=662",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 3.0,
+                "altura_maxima": 4.0,
+                "comprimento_minimo": 6.5,
+                "comprimento_maximo": 9.0,
+                "peso_minimo": 3500,
+                "peso_maximo": 5300,
+                "tempo_minimo": 145,
+                "tempo_maximo": 155,
+                "velocidade": 26
+            },
+            "onde_viveu": "Estados Unidos, Portugal"
+        },
+        {
+            "nome": {
+                "base": "Estiracossauro",
+                "genero": "Styracosaurus",
+                "especies": ["albertensis"],
+                "significado": "Lagarto Ouriço"
+            },
+            "comida": "Herbívoro",
+            "familia": "Ceratopsidae",
+            "imagem": {
+                "url": "https://media.discordapp.net/attachments/399044216904220674/603824503834935308/styracosaurus.png?ex=66050364&is=65f28e64&hm=6acb0c7444efc1de4eeae0f4b46c2edd81e39cb2bff98304edd024f722aa9fbb&=&format=webp&quality=lossless&width=1177&height=662",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 2.0,
+                "altura_maxima": 2.0,
+                "comprimento_minimo": 5.5,
+                "comprimento_maximo": 5.5,
+                "peso_minimo": 3000,
+                "peso_maximo": 3000,
+                "tempo_minimo": 75,
+                "tempo_maximo": 70,
+                "velocidade": 32
+            },
+            "onde_viveu": "Canadá, Estados Unidos"
+        },
+        {
+            "nome": {
+                "base": "Galimimo",
+                "genero": "Gallimimus",
+                "especies": ["bullatus"],
+                "significado": "Imitador de Galinha"
+            },
+            "comida": "Onívoro",
+            "familia": "Ornithomimidae",
+            "imagem": {
+                "url": "https://66.media.tumblr.com/0f4115f103a6e4b7cea7f8a9df354569/tumblr_inline_pksgekRLCP1rx4yme_1280.png",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 1.9,
+                "altura_maxima": 2.0,
+                "comprimento_minimo": 6.0,
+                "comprimento_maximo": 6.0,
+                "peso_minimo": 400,
+                "peso_maximo": 500,
+                "tempo_minimo": 66,
+                "tempo_maximo": 70,
+                "velocidade": 56
+            },
+            "onde_viveu": "China, Mongólia"
+        },
+        {
+            "nome": {
+                "base": "Giganotossauro",
+                "genero": "Giganotosaurus",
+                "especies": ["carolinii"],
+                "significado": "Lagarto Gigante do Sul"
+            },
+            "comida": "Carnívoro",
+            "familia": "Carcharodontosauridae",
+            "imagem": {
+                "url": "https://vignette.wikia.nocookie.net/dinosaurs/images/5/57/Gigas.jpg/revision/latest/scale-to-width-down/2000?cb=20161003100613",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 3.8,
+                "altura_maxima": 4.0,
+                "comprimento_minimo": 12.5,
+                "comprimento_maximo": 13.2,
+                "peso_minimo": 6000,
+                "peso_maximo": 7200,
+                "tempo_minimo": 97,
+                "tempo_maximo": 100,
+                "velocidade": 25
+            },
+            "onde_viveu": "Argentina"
+        },
+        {
+            "nome": {
+                "base": "Gigantoraptor",
+                "genero": "Gigantoraptor",
+                "especies": ["erlianensis"],
+                "significado": "Ladrão Gigante"
+            },
+            "comida": "Onívoro",
+            "familia": "Oviraptoridae",
+            "imagem": {
+                "url": "https://media.discordapp.net/attachments/398918775765729282/597888253525229578/gigantoraptor-erlianensis-by-danneart.png?ex=660b1a53&is=65f8a553&hm=e1768bb07e9fb391ec183c75d40545aaa6c72e7a5e392680c66d2cec646dbfa1&=&format=webp&quality=lossless&width=1032&height=662",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 3.5,
+                "altura_maxima": 3.5,
+                "comprimento_minimo": 8.0,
+                "comprimento_maximo": 8.0,
+                "peso_minimo": 1400,
+                "peso_maximo": 2000,
+                "tempo_minimo": 89,
+                "tempo_maximo": 102,
+                "velocidade": 54
+            },
+            "onde_viveu": "Mongólia"
+        },
+        {
+            "nome": {
+                "base": "Gigantspinossauro",
+                "genero": "Gigantspinosaurus",
+                "especies": ["sichuanensis"],
+                "significado": "Lagarto com Espinhos Gigantes"
+            },
+            "comida": "Herbívoro",
+            "familia": "Stegosauridae",
+            "imagem": {
+                "url": "https://t3.ftcdn.net/jpg/05/48/04/58/360_F_548045806_zxbXnPeNKnl0FnuhIBmT9YybKDIKVj9d.jpg",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 2.0,
+                "altura_maxima": 2.0,
+                "comprimento_minimo": 4.2,
+                "comprimento_maximo": 4.5,
+                "peso_minimo": 700,
+                "peso_maximo": 700,
+                "tempo_minimo": 157,
+                "tempo_maximo": 163,
+                "velocidade": 8
+            },
+            "onde_viveu": "China"
+        },
+        {
+            "nome": {
+                "base": "Gorgossauro",
+                "genero": "Gorgosaurus",
+                "especies": ["libratus"],
+                "significado": "Ladrão Medonho"
+            },
+            "comida": "Carnívoro",
+            "familia": "Tyrannosauridae",
+            "imagem": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Gorgosaurus_2022_Life_Reconstruction.png",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 3.0,
+                "altura_maxima": 3.0,
+                "comprimento_minimo": 8.0,
+                "comprimento_maximo": 9.0,
+                "peso_minimo": 2500,
+                "peso_maximo": 3000,
+                "tempo_minimo": 68,
+                "tempo_maximo": 76,
+                "velocidade": 43
+            },
+            "onde_viveu": "Canadá, Estados Unidos"
+        },
+        {
+            "nome": {
+                "base": "Herrerassauro",
+                "genero": "Herrerasaurus",
+                "especies": ["ischigualastensis"],
+                "significado": "Lagarto de Herrera"
+            },
+            "comida": "Carnívoro",
+            "familia": "Herrerasauridae",
+            "imagem": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Herrerasaurus_ischigualastensis_Illustration.jpg",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 1.55,
+                "altura_maxima": 1.7,
+                "comprimento_minimo": 6.0,
+                "comprimento_maximo": 6.0,
+                "peso_minimo": 350,
+                "peso_maximo": 350,
+                "tempo_minimo": 228,
+                "tempo_maximo": 231,
+                "velocidade": 55
+            },
+            "onde_viveu": "Argentina"
+        },
+        {
+            "nome": {
+                "base": "Iguanodonte",
+                "genero": "Iguanodon",
+                "especies": ["anglicus", "bernissartensis", "galvensis"],
+                "significado": "Dente de Iguana",
+                "sinonimos": ["Delapparentia turolensis"]
+            },
+            "comida": "Herbívoro",
+            "familia": "Iguanodontia",
+            "imagem": {
+                "url": "http://images.dinosaurpictures.org/iguanodon-1_e1e9.jpg",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 2.7,
+                "altura_maxima": 3.5,
+                "comprimento_minimo": 10.0,
+                "comprimento_maximo": 10.0,
+                "peso_minimo": 4000,
+                "peso_maximo": 5000,
+                "tempo_minimo": 115,
+                "tempo_maximo": 130,
+                "velocidade": 24
+            },
+            "onde_viveu": "Canadá, Estados Unidos, Alemanha, Bélgica, Espanha, França, Inglaterra, Romênia"
+        },
+        {
+            "nome": {
+                "base": "Irritator",
+                "genero": "Irritator",
+                "especies": ["challengeri"],
+                "significado": "Irritante",
+                "sinonimos": ["Angaturama limai"]
+            },
+            "comida": "Piscívoro/Carnívoro",
+            "familia": "Spinosauridae",
+            "imagem": {
+                "url": "https://media.discordapp.net/attachments/399044216904220674/595650108406890536/Irritator.png?ex=660c3064&is=65f9bb64&hm=6c46d8c1f727af6c7b38fb728f3ec7a175d9ae70b75872229aded81915b5bb65&=&format=webp&quality=lossless&width=993&height=662",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 2.0,
+                "altura_maxima": 2.5,
+                "comprimento_minimo": 7.5,
+                "comprimento_maximo": 7.5,
+                "peso_minimo": 1000,
+                "peso_maximo": 1000,
+                "tempo_minimo": 110,
+                "tempo_maximo": 113,
+                "velocidade": 20
+            },
+            "onde_viveu": "Brasil"
+        },
+        {
+            "nome": {
+                "base": "Kentrossauro",
+                "genero": "Kentrosaurus",
+                "especies": ["aethiopicus"],
+                "significado": "Lagarto Espinhoso"
+            },
+            "comida": "Herbívoro",
+            "familia": "Stegosauridae",
+            "imagem": {
+                "url": "https://www.newdinosaurs.com/wp-content/uploads/2016/01/378_kentrosaurus_wayne.png",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 3.5,
+                "altura_maxima": 3.5,
+                "comprimento_minimo": 5.5,
+                "comprimento_maximo": 5.5,
+                "peso_minimo": 2000,
+                "peso_maximo": 3000,
+                "tempo_minimo": 150,
+                "tempo_maximo": 156,
+                "velocidade": 8
+            },
+            "onde_viveu": "Tanzânia"
+        },
+        {
+            "nome": {
+                "base": "Lexovissauro",
+                "genero": "Lexovisaurus",
+                "especies": ["durobrivensis"],
+                "significado": "Lagarto de Lexovix"
+            },
+            "comida": "Herbívoro",
+            "familia": "Stegosauridae",
+            "imagem": {
+                "url": "https://media.discordapp.net/attachments/399044216904220674/698403880723021894/lexovisaurus.png?ex=6607a2cc&is=65f52dcc&hm=eb2131ff6082527a53ad35f19f30f72311782c0ab71d1f5b361c53b1a21fa2d7&=&format=webp&quality=lossless&width=1210&height=535",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 2.5,
+                "altura_maxima": 2.5,
+                "comprimento_minimo": 5.0,
+                "comprimento_maximo": 6.0,
+                "peso_minimo": 2000,
+                "peso_maximo": 2000,
+                "tempo_minimo": 164,
+                "tempo_maximo": 165,
+                "velocidade": 8
+            },
+            "onde_viveu": "Alemanha, França"
+        },
+        {
+            "nome": {
+                "base": "Lokiceratops",
+                "genero": "Lokiceratops",
+                "especies": ["rangiformis"],
+                "significado": "Rosto com Chifres de Loki"
+            },
+            "comida": "Herbívoro Raro",
+            "familia": "Ceratopsidae",
+            "imagem": {
+                "url": "https://thedinosaurs.org/wp-content/uploads/2024/06/F-Lokiceratops_rangiformis.jpg",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 1.9,
+                "altura_maxima": 2.0,
+                "comprimento_minimo": 6.7,
+                "comprimento_maximo": 6.7,
+                "peso_minimo": 5000,
+                "peso_maximo": 5500,
+                "tempo_minimo": 78,
+                "tempo_maximo": 78,
+                "velocidade": 20
+            },
+            "onde_viveu": "Estados Unidos"
+        },
+        {
+            "nome": {
+                "base": "Lurdussauro",
+                "genero": "Lurdusaurus",
+                "especies": ["arenatus"],
+                "significado": "Lagarto Pesado"
+            },
+            "comida": "Herbívoro",
+            "familia": "Iguanodontia",
+            "imagem": {
+                "url": "https://cdnb.artstation.com/p/assets/images/images/009/524/933/large/manuel-gil-jaramillo-lurdusaurus2.jpg?1519485435",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 2.0,
+                "altura_maxima": 2.0,
+                "comprimento_minimo": 7.0,
+                "comprimento_maximo": 9.0,
+                "peso_minimo": 2500,
+                "peso_maximo": 5500,
+                "tempo_minimo": 112,
+                "tempo_maximo": 121,
+                "velocidade": 24
+            },
+            "onde_viveu": "Níger"
+        },
+        {
+            "nome": {
+                "base": "Maiassaura",
+                "genero": "Maiasaura",
+                "especies": ["peeblesorum"],
+                "significado": "Lagarto Boa Mãe"
+            },
+            "comida": "Herbívoro Incomum",
+            "familia": "Hadrosauridae",
+            "imagem": {
+                "url": "https://vignette.wikia.nocookie.net/the-isle-dinosaur-game/images/8/89/Maiasaura.png/revision/latest?cb=20170624090628",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 2.5,
+                "altura_maxima": 2.5,
+                "comprimento_minimo": 7.0,
+                "comprimento_maximo": 9.0,
+                "peso_minimo": 3000,
+                "peso_maximo": 3000,
+                "tempo_minimo": 74,
+                "tempo_maximo": 76,
+                "velocidade": 45
+            },
+            "onde_viveu": "Canadá, Estados Unidos"
+        },
+        {
+            "nome": {
+                "base": "Majungassauro",
+                "genero": "Majungasaurus",
+                "especies": ["crenatissimus"],
+                "significado": "Lagarto de Majunga"
+            },
+            "comida": "Carnívoro",
+            "familia": "Abelisauridae",
+            "imagem": {
+                "url": "https://media.discordapp.net/attachments/399044216904220674/623679956156809236/majungasaurus.png?ex=66036b38&is=65f0f638&hm=abac4fed3843cfe41ff6423b54758862e6bab7be369252cc50304b8ea08949e4&=&format=webp&quality=lossless&width=1562&height=501",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 2.0,
+                "altura_maxima": 2.0,
+                "comprimento_minimo": 6.0,
+                "comprimento_maximo": 8.0,
+                "peso_minimo": 1000,
+                "peso_maximo": 1000,
+                "tempo_minimo": 66,
+                "tempo_maximo": 70,
+                "velocidade": 24
+            },
+            "onde_viveu": "Madagascar"
+        },
+        {
+            "nome": {
+                "base": "Mapussauro",
+                "genero": "Mapusaurus",
+                "especies": ["roseae"],
+                "significado": "Lagarto da Terra"
+            },
+            "comida": "Carnívoro",
+            "familia": "Carcharodontosauridae",
+            "imagem": {
+                "url": "https://media.discordapp.net/attachments/507357708832473088/608415840894976023/mapusaurus.png?ex=66034268&is=65f0cd68&hm=19531d6e05801851ecb2da9a19e160546553c1843c2215b4a6024b004ccd1698&=&format=webp&quality=lossless&width=1250&height=500",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 3.7,
+                "altura_maxima": 3.7,
+                "comprimento_minimo": 11.0,
+                "comprimento_maximo": 12.2,
+                "peso_minimo": 4000,
+                "peso_maximo": 5100,
+                "tempo_minimo": 89,
+                "tempo_maximo": 94,
+                "velocidade": 27
+            },
+            "onde_viveu": "Argentina"
+        },
+        {
+            "nome": {
+                "base": "Megalossauro",
+                "genero": "Megalosaurus",
+                "especies": ["bucklandii"],
+                "significado": "Grande Lagarto"
+            },
+            "comida": "Carnívoro",
+            "familia": "Megalosauridae",
+            "imagem": {
+                "url": "https://pre00.deviantart.net/3c46/th/pre/f/2018/033/d/0/megalosaurus_by_manuelsaurus-dc1xpfc.jpg",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 3.0,
+                "altura_maxima": 3.0,
+                "comprimento_minimo": 9.0,
+                "comprimento_maximo": 9.0,
+                "peso_minimo": 1000,
+                "peso_maximo": 3000,
+                "tempo_minimo": 165,
+                "tempo_maximo": 168,
+                "velocidade": 32
+            },
+            "onde_viveu": "Argélia, Marrocos, Tanzânia, Alemanha, Bélgica, Espanha, França, Inglaterra"
+        },
+        {
+            "nome": {
+                "base": "Megaraptor",
+                "genero": "Megaraptor",
+                "especies": ["namunhuaiquii"],
+                "significado": "Grande Ladrão"
+            },
+            "comida": "Carnívoro",
+            "familia": "Megaraptoridae",
+            "imagem": {
+                "url": "https://media.discordapp.net/attachments/399044216904220674/731278630558236782/megaraptor.png?ex=6607434c&is=65f4ce4c&hm=ef141ef12429422deabbcf77601a816f82e26dfc7fd8778eee14a32d2a806bac&=&format=webp&quality=lossless&width=1490&height=522",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 2.7,
+                "altura_maxima": 3.2,
+                "comprimento_minimo": 8.0,
+                "comprimento_maximo": 8.0,
+                "peso_minimo": 1000,
+                "peso_maximo": 1000,
+                "tempo_minimo": 88,
+                "tempo_maximo": 91,
+                "velocidade": 50
+            },
+            "onde_viveu": "Argentina"
+        },
+        {
+            "nome": {
+                "base": "Metriacantossauro",
+                "genero": "Metriacanthosaurus",
+                "especies": ["parkeri"],
+                "significado": "Lagarto com Espinhos Moderados"
+            },
+            "comida": "Carnívoro",
+            "familia": "Metriacanthosauridae",
+            "imagem": {
+                "url": "https://static.wikia.nocookie.net/jurassicpark/images/9/93/Metriacanthosaurus-detail-header.png/revision/latest?cb=20150227002518",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 1.8,
+                "altura_maxima": 2.0,
+                "comprimento_minimo": 7.6,
+                "comprimento_maximo": 8.0,
+                "peso_minimo": 1000,
+                "peso_maximo": 1000,
+                "tempo_minimo": 154,
+                "tempo_maximo": 160,
+                "velocidade": 32
+            },
+            "onde_viveu": "Inglaterra"
+        },
+        {
+            "nome": {
+                "base": "Microraptor",
+                "genero": "Microraptor",
+                "especies": ["gui", "hanqingi"],
+                "significado": "Pequeno Ladrão"
+            },
+            "comida": "Piscívoro/Carnívoro Raro",
+            "familia": "Dromaeosauridae",
+            "imagem": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Microraptor_Restoration.png",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 0.3,
+                "altura_maxima": 0.3,
+                "comprimento_minimo": 0.77,
+                "comprimento_maximo": 0.8,
+                "envergadura_minima": 0.88,
+                "envergadura_maxima": 1.0,
+                "peso_minimo": 0.5,
+                "peso_maximo": 1.88,
+                "tempo_minimo": 120,
+                "tempo_maximo": 125,
+                "velocidade": 54
+            },
+            "onde_viveu": "China"
+        },
+        {
+            "nome": {
+                "base": "Miragaia",
+                "genero": "Miragaia",
+                "especies": ["longicollum"],
+                "significado": "Referência a Paróquia de Portugal e Unidade Geológica"
+            },
+            "comida": "Herbívoro",
+            "familia": "Stegosauridae",
+            "imagem": {
+                "url": "https://static.wikia.nocookie.net/pkgame/images/e/ec/Miragaia_Floodplain.png/revision/latest?cb=20201106083831",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 2.0,
+                "altura_maxima": 2.2,
+                "comprimento_minimo": 5.5,
+                "comprimento_maximo": 6.5,
+                "peso_minimo": 2000,
+                "peso_maximo": 2000,
+                "tempo_minimo": 150,
+                "tempo_maximo": 152,
+                "velocidade": 8
+            },
+            "onde_viveu": "Portugal"
+        },
+        {
+            "nome": {
+                "base": "Mnyamawamtuka",
+                "genero": "Mnyamawamtuka",
+                "especies": ["moyowamkia"],
+                "significado": "Besta do Mtuka"
+            },
+            "comida": "Herbívoro Raro",
+            "familia": "Sauropod",
+            "imagem": {
+                "url": "https://media.discordapp.net/attachments/399044216904220674/613948427188961282/mnyamawamtuka.png?ex=6604ee07&is=65f27907&hm=5a59c6dc04114a1bd305e1eff1d0925b6653e65e71ba80da1c8add9508fd3806&=&format=webp&quality=lossless&width=1273&height=662",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 5.0,
+                "altura_maxima": 5.5,
+                "comprimento_minimo": 7.6,
+                "comprimento_maximo": 8.0,
+                "peso_minimo": 1500,
+                "peso_maximo": 1500,
+                "tempo_minimo": 100,
+                "tempo_maximo": 110,
+                "velocidade": 17
+            },
+            "onde_viveu": "Tanzânia"
+        },
+        {
+            "nome": {
+                "base": "Mosassauro",
+                "genero": "Mosasaurus",
+                "especies": ["beaugei", "conodon", "hoffmannii", "lemonnieri", "missouriensis"],
+                "significado": "Lagarto do Rio Mosa"
+            },
+            "comida": "Mosassauro Carnívoro Lendário",
+            "familia": "Mosasauridae",
+            "imagem": {
+                "url": "https://media.discordapp.net/attachments/584863089099276293/620692618212278326/Mh.png?ex=660b020c&is=65f88d0c&hm=3f9ce397cfb0f194e3d7a01028f5e18fa4f24a03180b20ebcbcb01cd144bf994&=&format=webp&quality=lossless&width=1760&height=352",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 3.0,
+                "altura_maxima": 3.5,
+                "comprimento_minimo": 6.5,
+                "comprimento_maximo": 13.0,
+                "peso_minimo": 700,
+                "peso_maximo": 5500,
+                "tempo_minimo": 66,
+                "tempo_maximo": 82,
+                "velocidade": 48
+            },
+            "onde_viveu": "Canadá, Estados Unidos, Argentina, Brasil, África do Sul, Angola, Marrocos, Níger, República Democrática do Congo, Bélgica, Dinamarca, Espanha, França, Hungria, Inglaterra, Itália, Polônia, Rússia, Suécia, Japão, Jordânia, Síria, Turquia, Nova Zelândia, Antártida"
+        },
+        {
+            "nome": {
+                "base": "Mutaburrassauro",
+                "genero": "Muttaburrasaurus",
+                "especies": ["langdoni"],
+                "significado": "Lagarto de Muttaburra"
+            },
+            "comida": "Herbívoro",
+            "familia": "Iguanodontia",
+            "imagem": {
+                "url": "https://media.discordapp.net/attachments/584863089099276293/606321005232783402/muttaburrasaurus.png?ex=6604ddf0&is=65f268f0&hm=4648952801ec7519c6ac54cdf155c2a94fce6287be93082f66809fd409cdae72&=&format=webp&quality=lossless&width=875&height=662",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 2.5,
+                "altura_maxima": 2.5,
+                "comprimento_minimo": 8.0,
+                "comprimento_maximo": 8.0,
+                "peso_minimo": 2800,
+                "peso_maximo": 3000,
+                "tempo_minimo": 103,
+                "tempo_maximo": 112,
+                "velocidade": 24
+            },
+            "onde_viveu": "Austrália, Antártida"
+        },
+        {
+            "nome": {
+                "base": "Neovenator",
+                "genero": "Neovenator",
+                "especies": ["Neovenator salerii"],
+                "significado": "Novo Caçador"
+            },
+            "comida": "Carnívoro",
+            "familia": "Allosauridae",
+            "imagem": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Neovenator.png/1200px-Neovenator.png",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 2.0,
+                "altura_maxima": 2.0,
+                "comprimento_minimo": 7.0,
+                "comprimento_maximo": 7.0,
+                "peso_minimo": 1000,
+                "peso_maximo": 1000,
+                "tempo_minimo": 125,
+                "tempo_maximo": 130,
+                "velocidade": 32
+            },
+            "onde_viveu": "França, Inglaterra"
+        },
+        {
+            "nome": {
+                "base": "Ornitomimo",
+                "genero": "Ornithomimus",
+                "especies": ["edmontoni", "velox"],
+                "significado": "Imitador de Pássaro"
+            },
+            "comida": "Onívoro Incomum",
+            "familia": "Ornithomimidae",
+            "imagem": {
+                "url": "https://media.discordapp.net/attachments/399044216904220674/677564406271574017/ornithomimus.png?ex=6605a686&is=65f33186&hm=ce4e21a9f0ec0403b8a7399432559b112fb660f6082e85971dfa81a6109496c3&=&format=webp&quality=lossless&width=918&height=538",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 1.8,
+                "altura_maxima": 2.0,
+                "comprimento_minimo": 3.5,
+                "comprimento_maximo": 3.8,
+                "peso_minimo": 170,
+                "peso_maximo": 170,
+                "tempo_minimo": 66,
+                "tempo_maximo": 75,
+                "velocidade": 65
+            },
+            "onde_viveu": "Canadá, Estados Unidos"
+        },
+        {
+            "nome": {
+                "base": "Ouranossauro",
+                "genero": "Ouranosaurus",
+                "especies": ["nigeriensis"],
+                "significado": "Lagarto Valente"
+            },
+            "comida": "Herbívoro",
+            "familia": "Iguanodontia",
+            "imagem": {
+                "url": "https://vignette.wikia.nocookie.net/dinosaurs/images/4/4f/Ouranosaurus_AfricaScene_01_100ppi.jpg/revision/latest/scale-to-width-down/2000?cb=20161129064644",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 3.0,
+                "altura_maxima": 3.0,
+                "comprimento_minimo": 7.0,
+                "comprimento_maximo": 8.3,
+                "peso_minimo": 2000,
+                "peso_maximo": 4000,
+                "tempo_minimo": 100,
+                "tempo_maximo": 115,
+                "velocidade": 45
+            },
+            "onde_viveu": "Camarões, Níger, Sudão, Tunísia"
+        },
+        {
+            "nome": {
+                "base": "Paquicefalossauro",
+                "genero": "Pachycephalosaurus",
+                "especies": ["wyomingensis"],
+                "significado": "Lagarto de Cabeça Espessa",
+                "sinonimos": ["Dracorex hogwartsia", "Stenotholus kohleri", "Stygimoloch spinifer", "Tylosteus ornatus"]
+            },
+            "comida": "Onívoro",
+            "familia": "Pachycephalosauridae",
+            "imagem": {
+                "url": "https://media.discordapp.net/attachments/398918775765729282/627925226793205771/pachycephalosaurus.png?ex=6609a270&is=65f72d70&hm=765e71987bcf7014c59e9cf21866a767383b52e37de1ace854b557e174472530&=&format=webp&quality=lossless&width=1362&height=662",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 1.5,
+                "altura_maxima": 2.0,
+                "comprimento_minimo": 4.0,
+                "comprimento_maximo": 5.0,
+                "peso_minimo": 370,
+                "peso_maximo": 450,
+                "tempo_minimo": 66,
+                "tempo_maximo": 70,
+                "velocidade": 40
+            },
+            "onde_viveu": "Canadá, Estados Unidos"
+        },
+        {
+            "nome": {
+                "base": "Paquirrinossauro",
+                "genero": "Pachyrhinosaurus",
+                "especies": ["canadensis", "lakustai", "perotorum"],
+                "significado": "Lagarto de Nariz Grosso"
+            },
+            "comida": "Herbívoro",
+            "familia": "Ceratopsidae",
+            "imagem": {
+                "url": "https://media.discordapp.net/attachments/399044216904220674/623693002187210755/Pachyrhinosaurus_The_Isle.png?ex=6603775f&is=65f1025f&hm=7d873826ffc2506c2d6ba1d9bc4c7427895682c242b402982394879e543b60eb&=&format=webp&quality=lossless&width=1250&height=577",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 2.2,
+                "altura_maxima": 3.0,
+                "comprimento_minimo": 6.0,
+                "comprimento_maximo": 8.0,
+                "peso_minimo": 3000,
+                "peso_maximo": 4000,
+                "tempo_minimo": 69,
+                "tempo_maximo": 73,
+                "velocidade": 25
+            },
+            "onde_viveu": "Canadá, Estados Unidos"
+        },
+        {
+            "nome": {
+                "base": "Parassaurolofo",
+                "genero": "Parasaurolophus",
+                "especies": ["cyrtocristatus", "tubicen", "walkeri"],
+                "significado": "Lagarto com Crista Paralela"
+            },
+            "comida": "Herbívoro",
+            "familia": "Hadrosauridae",
+            "imagem": {
+                "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2d01f931-5128-414a-97c7-ec5e31491855/dcvhfyu-4c40e4d9-9f24-4ef8-8b4b-ed6d5f31ca1e.png/v1/fill/w_1264,h_632,strp/the_isle_parasaurolophus_transparent__by_jacksondeans_dcvhfyu-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQwIiwicGF0aCI6IlwvZlwvMmQwMWY5MzEtNTEyOC00MTRhLTk3YzctZWM1ZTMxNDkxODU1XC9kY3ZoZnl1LTRjNDBlNGQ5LTlmMjQtNGVmOC04YjRiLWVkNmQ1ZjMxY2ExZS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.fmquR5Wy54pbMG5ZGh6gfdT1p6QXri5WkLEcOlZQB9g",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 2.7,
+                "altura_maxima": 4.0,
+                "comprimento_minimo": 7.5,
+                "comprimento_maximo": 9.5,
+                "peso_minimo": 2600,
+                "peso_maximo": 5000,
+                "tempo_minimo": 66,
+                "tempo_maximo": 76,
+                "velocidade": 40
+            },
+            "onde_viveu": "Canadá, Estados Unidos"
+        },
+        {
+            "nome": {
+                "base": "Picnonemossauro",
+                "genero": "Pycnonemosaurus",
+                "especies": ["nevesi"],
+                "significado": "Lagarto de Floresta Densa"
+            },
+            "comida": "Carnívoro",
+            "familia": "Abelisauridae",
+            "imagem": {
+                "url": "https://media.discordapp.net/attachments/399044216904220674/681634942895259670/pycnonemosaurus.png?ex=660b3b02&is=65f8c602&hm=bc29d3ffd8802eb12eaed57d3b1ae463bd9266c522bc5a0ef6daec3a2b32281a&=&format=webp&quality=lossless&width=1240&height=602",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 3.0,
+                "altura_maxima": 3.5,
+                "comprimento_minimo": 8.9,
+                "comprimento_maximo": 9.5,
+                "peso_minimo": 2000,
+                "peso_maximo": 2000,
+                "tempo_minimo": 66,
+                "tempo_maximo": 70,
+                "velocidade": 43
+            },
+            "onde_viveu": "Brasil"
+        },
+        {
+            "nome": {
+                "base": "Plateossauro",
+                "genero": "Plateosaurus",
+                "especies": ["gracilis", "longiceps", "trossingensis"],
+                "significado": "Lagarto Largo"
+            },
+            "comida": "Herbívoro",
+            "familia": "Sauropodomorpha",
+            "imagem": {
+                "url": "https://media.discordapp.net/attachments/399044216904220674/605972189371695117/plateosaurus.png?ex=66039914&is=65f12414&hm=400b1ad3fb05570d77494368b9f8e515a43079b9480ab47c9393b07eb90d8d0f&=&format=webp&quality=lossless&width=886&height=662",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 1.6,
+                "altura_maxima": 2.5,
+                "comprimento_minimo": 4.8,
+                "comprimento_maximo": 10.0,
+                "peso_minimo": 600,
+                "peso_maximo": 4000,
+                "tempo_minimo": 204,
+                "tempo_maximo": 214,
+                "velocidade": 42
+            },
+            "onde_viveu": "Groenlândia, Alemanha, França, Suíça"
+        },
+        {
+            "nome": {
+                "base": "Pyroraptor",
+                "genero": "Pyroraptor",
+                "especies": ["olympius"],
+                "significado": "Ladrão de Fogo"
+            },
+            "comida": "Carnívoro Raro",
+            "familia": "Dromaeosauridae",
+            "imagem": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Pyroraptor_olympius_reconstruction.png/1024px-Pyroraptor_olympius_reconstruction.png",
+                "direitos": "Mette Aumala"
+            },
+            "atributos": {
+                "altura_minima": 0.6,
+                "altura_maxima": 0.9,
+                "comprimento_minimo": 2.4,
+                "comprimento_maximo": 2.4,
+                "peso_minimo": 30,
+                "peso_maximo": 30,
+                "tempo_minimo": 67,
+                "tempo_maximo": 70,
+                "velocidade": 40
+            },
+            "onde_viveu": "França"
+        },
+        {
+            "nome": {
+                "base": "Quetzalcoatlus",
+                "genero": "Quetzalcoatlus",
+                "especies": ["lawsoni", "northropi"],
+                "significado": "Referência a Deidade Mexicana"
+            },
+            "comida": "Pterossauro Carnívoro Lendário",
+            "familia": "Azhdarchidae",
+            "imagem": {
+                "url": "https://pteros-img.imgix.net/quetzalcoatlus-northropi_julio-lacerda.png?w=2000&fm=jpg&auto=compress",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 3.5,
+                "altura_maxima": 6.0,
+                "envergadura_minima": 5.0,
+                "envergadura_maxima": 10.0,
+                "peso_minimo": 65,
+                "peso_maximo": 250,
+                "tempo_minimo": 66,
+                "tempo_maximo": 68,
+                "velocidade": 130
+            },
+            "onde_viveu": "Estados Unidos"
+        },
+        {
+            "nome": {
+                "base": "Regaliceratops",
+                "genero": "Regaliceratops",
+                "especies": ["peterhewsi"],
+                "significado": "Rosto com Chifres da Realeza"
+            },
+            "comida": "Herbívoro Raro",
+            "familia": "Ceratopsidae",
+            "imagem": {
+                "url": "https://media.discordapp.net/attachments/399044216904220674/605541228309774336/regaliceratops_by_olorotitan.png?ex=660b4237&is=65f8cd37&hm=02eae8f66edb3f223f32da81b797df41307fe88425d460d99d58268e67c25a7c&=&format=webp&quality=lossless&width=1403&height=662",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 1.5,
+                "altura_maxima": 1.5,
+                "comprimento_minimo": 5.0,
+                "comprimento_maximo": 5.0,
+                "peso_minimo": 1500,
+                "peso_maximo": 1500,
+                "tempo_minimo": 68,
+                "tempo_maximo": 70,
+                "velocidade": 28
+            },
+            "onde_viveu": "Canadá"
+        },
+        {
+            "nome": {
+                "base": "Saichania",
+                "genero": "Saichania",
+                "especies": ["chulsanensis"],
+                "significado": "A Bonita"
+            },
+            "comida": "Herbívoro",
+            "familia": "Ankylosauridae",
+            "imagem": {
+                "url": "https://2.bp.blogspot.com/-M8K0S2vwfdk/UizeYaqH6OI/AAAAAAAAEjw/kd4182hxeQc/s1600/Saichania_by_Olorotitan.jpg",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 2.0,
+                "altura_maxima": 2.0,
+                "comprimento_minimo": 5.0,
+                "comprimento_maximo": 5.0,
+                "peso_minimo": 2000,
+                "peso_maximo": 2000,
+                "tempo_minimo": 73,
+                "tempo_maximo": 80,
+                "velocidade": 5
+            },
+            "onde_viveu": "Mongólia"
+        },
+        {
+            "nome": {
+                "base": "Saltassauro",
+                "genero": "Saltasaurus",
+                "especies": ["loricatus"],
+                "significado": "Lagarto de Salta"
+            },
+            "comida": "Herbívoro",
+            "familia": "Sauropod",
+            "imagem": {
+                "url": "https://vignette.wikia.nocookie.net/prehistoric-life/images/1/1f/Saltasaurus.png/revision/latest?cb=20180718045648",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 2.5,
+                "altura_maxima": 3.0,
+                "comprimento_minimo": 6.0,
+                "comprimento_maximo": 8.5,
+                "peso_minimo": 2500,
+                "peso_maximo": 2500,
+                "tempo_minimo": 66,
+                "tempo_maximo": 70,
+                "velocidade": 10
+            },
+            "onde_viveu": "Argentina"
+        },
+        {
+            "nome": {
+                "base": "Saurophaganax",
+                "genero": "Saurophaganax",
+                "especies": ["maximus"],
+                "significado": "Mestre dos Lagartos Comedores"
+            },
+            "comida": "Carnívoro",
+            "familia": "Allosauridae",
+            "imagem": {
+                "url": "https://cdna.artstation.com/p/assets/images/images/009/254/802/large/manuel-gil-jaramillo-saurophaganax.jpg?1517953852",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 3.0,
+                "altura_maxima": 3.5,
+                "comprimento_minimo": 10.5,
+                "comprimento_maximo": 11.5,
+                "peso_minimo": 2700,
+                "peso_maximo": 3800,
+                "tempo_minimo": 149,
+                "tempo_maximo": 151,
+                "velocidade": 24
+            },
+            "onde_viveu": "Estados Unidos"
+        },
+        {
+            "nome": {
+                "base": "Shantungossauro",
+                "genero": "Shantungosaurus",
+                "especies": ["giganteus"],
+                "significado": "Lagarto de Shandong"
+            },
+            "comida": "Herbívoro",
+            "familia": "Hadrosauridae",
+            "imagem": {
+                "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bb7f9376-0b91-41b7-bde7-d6b446208da7/dbyshg7-4ff188de-d1b6-47b4-ad43-6c98f1f0f575.png/v1/fill/w_1243,h_643,strp/shantungosaurus_render_by_nestiebot_dbyshg7-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzUxIiwicGF0aCI6IlwvZlwvYmI3ZjkzNzYtMGI5MS00MWI3LWJkZTctZDZiNDQ2MjA4ZGE3XC9kYnlzaGc3LTRmZjE4OGRlLWQxYjYtNDdiNC1hZDQzLTZjOThmMWYwZjU3NS5wbmciLCJ3aWR0aCI6Ijw9MTQ1MiJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.4IUpdl_yKBkAQmmjNuHdBEOWZmHq2NBspSDFwsc2bmU",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 4.0,
+                "altura_maxima": 7.0,
+                "comprimento_minimo": 12.0,
+                "comprimento_maximo": 15.0,
+                "peso_minimo": 3800,
+                "peso_maximo": 13000,
+                "tempo_minimo": 74,
+                "tempo_maximo": 83,
+                "velocidade": 32
+            },
+            "onde_viveu": "China"
+        },
+        {
+            "nome": {
+                "base": "Shunossauro",
+                "genero": "Shunosaurus",
+                "especies": ["lii"],
+                "significado": "Lagarto de Shu"
+            },
+            "comida": "Herbívoro",
+            "familia": "Sauropod",
+            "imagem": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Shunosaurus_life_restoration.jpg/1920px-Shunosaurus_life_restoration.jpg",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 4.0,
+                "altura_maxima": 4.0,
+                "comprimento_minimo": 9.5,
+                "comprimento_maximo": 9.5,
+                "peso_minimo": 3000,
+                "peso_maximo": 4000,
+                "tempo_minimo": 157,
+                "tempo_maximo": 161,
+                "velocidade": 16
+            },
+            "onde_viveu": "China"
+        },
+        {
+            "nome": {
+                "base": "Sinoceratops",
+                "genero": "Sinoceratops",
+                "especies": ["zhuchengensis"],
+                "significado": "Rosto com Chifres Chinês"
+            },
+            "comida": "Herbívoro Raro",
+            "familia": "Ceratopsidae",
+            "imagem": {
+                "url": "https://media.discordapp.net/attachments/399044216904220674/603824496574464001/sinoceratops.png?ex=66050362&is=65f28e62&hm=e67addf3aa787a35ed08c65ff6adfca960e6a231be36a5fe59d9bf145f79611c&=&format=webp&quality=lossless&width=1177&height=662",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 2.0,
+                "altura_maxima": 3.0,
+                "comprimento_minimo": 6.0,
+                "comprimento_maximo": 7.0,
+                "peso_minimo": 2000,
+                "peso_maximo": 2500,
+                "tempo_minimo": 66,
+                "tempo_maximo": 72,
+                "velocidade": 26
+            },
+            "onde_viveu": "China"
+        },
+        {
+            "nome": {
+                "base": "Sucomimo",
+                "genero": "Suchomimus",
+                "especies": ["tenerensis"],
+                "significado": "Imitador de Crocodilo"
+            },
+            "comida": "Piscívoro/Carnívoro",
+            "familia": "Spinosauridae",
+            "imagem": {
+                "url": "https://vignette.wikia.nocookie.net/jurassicpark/images/a/a9/Suchomimus-detail-header.png/revision/latest?cb=20150227002711",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 3.5,
+                "altura_maxima": 3.5,
+                "comprimento_minimo": 9.5,
+                "comprimento_maximo": 11.0,
+                "peso_minimo": 2500,
+                "peso_maximo": 3800,
+                "tempo_minimo": 112,
+                "tempo_maximo": 121,
+                "velocidade": 30
+            },
+            "onde_viveu": "Níger"
+        },
+        {
+            "nome": {
+                "base": "Suskitirano",
+                "genero": "Suskityrannus",
+                "especies": ["hazelae"],
+                "significado": "Coiote Tirano"
+            },
+            "comida": "Carnívoro Raro",
+            "familia": "Tyrannosauroidea",
+            "imagem": {
+                "url": "https://66.media.tumblr.com/e0180010ec77ce81c7df75063b915d1c/0b0a32916eb8fe9e-6b/s1280x1920/2ecf077ab14bbc87ecb89be1c5565ec5ea22fb60.png",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 1.5,
+                "altura_maxima": 1.5,
+                "comprimento_minimo": 4.0,
+                "comprimento_maximo": 5.0,
+                "peso_minimo": 1000,
+                "peso_maximo": 1000,
+                "tempo_minimo": 89,
+                "tempo_maximo": 93,
+                "velocidade": 48
+            },
+            "onde_viveu": "Estados Unidos"
+        },
+        {
+            "nome": {
+                "base": "Tarbossauro",
+                "genero": "Tarbosaurus",
+                "especies": ["bataar"],
+                "significado": "Lagarto Espantoso"
+            },
+            "comida": "Carnívoro",
+            "familia": "Tyrannosauridae",
+            "imagem": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Tarbosaurus_Restoration.png/1920px-Tarbosaurus_Restoration.png",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 3.0,
+                "altura_maxima": 3.0,
+                "comprimento_minimo": 10.0,
+                "comprimento_maximo": 10.0,
+                "peso_minimo": 4500,
+                "peso_maximo": 5000,
+                "tempo_minimo": 68,
+                "tempo_maximo": 74,
+                "velocidade": 30
+            },
+            "onde_viveu": "China, Mongólia"
+        },
+        {
+            "nome": {
+                "base": "Tarchia",
+                "genero": "Tarchia",
+                "especies": ["kielanae", "teresae", "tumanovae"],
+                "significado": "A Esperta"
+            },
+            "comida": "Herbívoro",
+            "familia": "Ankylosauridae",
+            "imagem": {
+                "url": "https://64.media.tumblr.com/4c64ad12745061f0e2997122683d59b0/tumblr_inline_prgz01RMTF1rx4yme_1280.png",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 2.5,
+                "altura_maxima": 2.5,
+                "comprimento_minimo": 5.5,
+                "comprimento_maximo": 6.7,
+                "peso_minimo": 2200,
+                "peso_maximo": 2500,
+                "tempo_minimo": 108,
+                "tempo_maximo": 115,
+                "velocidade": 9
+            },
+            "onde_viveu": "Mongólia"
+        },
+        {
+            "nome": {
+                "base": "Tenontossauro",
+                "genero": "Tenontosaurus",
+                "especies": ["tilletti"],
+                "significado": "Lagarto Tendão"
+            },
+            "comida": "Herbívoro",
+            "familia": "Iguanodontia",
+            "imagem": {
+                "url": "https://media.discordapp.net/attachments/399044216904220674/698396445484515359/Tenontosaurus.png?ex=66079be0&is=65f526e0&hm=b18903b22324740b661db0f4a813a06a7f7fd811d2a20c3e15fb2cfa198ffbd6&=&format=webp&quality=lossless&width=1302&height=395",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 3.0,
+                "altura_maxima": 3.0,
+                "comprimento_minimo": 6.0,
+                "comprimento_maximo": 7.0,
+                "peso_minimo": 600,
+                "peso_maximo": 1500,
+                "tempo_minimo": 108,
+                "tempo_maximo": 115,
+                "velocidade": 42
+            },
+            "onde_viveu": "Estados Unidos"
+        },
+        {
+            "nome": {
+                "base": "Thanos",
+                "genero": "Thanos",
+                "especies": ["simonattoi"],
+                "significado": "Morte"
+            },
+            "comida": "Carnívoro Raro",
+            "familia": "Abelisauridae",
+            "imagem": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Therizinosaurus_Restoration.png/1920px-Therizinosaurus_Restoration.png",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 1.5,
+                "altura_maxima": 1.5,
+                "comprimento_minimo": 5.5,
+                "comprimento_maximo": 6.5,
+                "peso_minimo": 600,
+                "peso_maximo": 600,
+                "tempo_minimo": 80,
+                "tempo_maximo": 85,
+                "velocidade": 56
+            },
+            "onde_viveu": "Brasil"
+        },
+        {
+            "nome": {
+                "base": "Therizinossauro",
+                "genero": "Therizinosaurus",
+                "especies": ["cheloniformis"],
+                "significado": "Lagarto Foice"
+            },
+            "comida": "Herbívoro",
+            "familia": "Therizinosauridae",
+            "imagem": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Therizinosaurus_Restoration.png/1920px-Therizinosaurus_Restoration.png",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 4.0,
+                "altura_maxima": 5.0,
+                "comprimento_minimo": 9.0,
+                "comprimento_maximo": 10.0,
+                "peso_minimo": 3000,
+                "peso_maximo": 5000,
+                "tempo_minimo": 70,
+                "tempo_maximo": 75,
+                "velocidade": 23
+            },
+            "onde_viveu": "Mongólia"
+        },
+        {
+            "nome": {
+                "base": "Tiranossauro",
+                "genero": "Tyrannosaurus",
+                "especies": ["mcraeensis", "rex"],
+                "significado": "Lagarto Tirano Rei",
+                "sinonimos": ["Aublysodon", "Deinodon", "Dinotyrannus", "Dynamosaurus", "Manospondylus", "Nanotyrannus", "Stygivenator"]
+            },
+            "comida": "Carnívoro",
+            "familia": "Tyrannosauridae",
+            "imagem": {
+                "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2d01f931-5128-414a-97c7-ec5e31491855/dcuuuy9-75fbd5ab-9f8d-4f6f-8b5c-e3a4b57cbc62.png/v1/fill/w_1280,h_459/saurian_tyrannosaurus_rex_transparent_ver_2__by_jacksondeans_dcuuuy9-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDU5IiwicGF0aCI6IlwvZlwvMmQwMWY5MzEtNTEyOC00MTRhLTk3YzctZWM1ZTMxNDkxODU1XC9kY3V1dXk5LTc1ZmJkNWFiLTlmOGQtNGY2Zi04YjVjLWUzYTRiNTdjYmM2Mi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.BMMS9JADPKVDfeulEsP1CiotW--POEDIB0DPnVyw2I0",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 3.66,
+                "altura_maxima": 3.96,
+                "comprimento_minimo": 11.5,
+                "comprimento_maximo": 12.8,
+                "mordida": 57000,
+                "peso_minimo": 6000,
+                "peso_maximo": 8800,
+                "tempo_minimo": 66,
+                "tempo_maximo": 72,
+                "velocidade": 25
+            },
+            "onde_viveu": "Canadá, Estados Unidos, México"
+        },
+        {
+            "nome": {
+                "base": "Torossauro",
+                "genero": "Torosaurus",
+                "especies": ["latus"],
+                "significado": "Lagarto Perfurado"
+            },
+            "comida": "Herbívoro",
+            "familia": "Ceratopsidae",
+            "imagem": {
+                "url": "https://i.pinimg.com/originals/d9/76/6c/d9766ce72e23db12ecdf9e29fd139f2e.png",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 2.4,
+                "altura_maxima": 2.6,
+                "comprimento_minimo": 7.0,
+                "comprimento_maximo": 8.0,
+                "peso_minimo": 5000,
+                "peso_maximo": 9000,
+                "tempo_minimo": 66,
+                "tempo_maximo": 69,
+                "velocidade": 32
+            },
+            "onde_viveu": "Canadá, Estados Unidos"
+        },
+        {
+            "nome": {
+                "base": "Torvossauro",
+                "genero": "Torvosaurus",
+                "especies": ["gurneyi", "tanneri"],
+                "significado": "Lagarto Selvagem"
+            },
+            "comida": "Carnívoro",
+            "familia": "Megalosauridae",
+            "imagem": {
+                "url": "https://media.discordapp.net/attachments/399044216904220674/597880791720263741/torvo-ssauro3.png?ex=660b1360&is=65f89e60&hm=511856bf4c3e0be65fb05c5631242bc4b91618ec76b256bc4cf93fcf9efb056b&=&format=webp&quality=lossless&width=500&height=318",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 2.5,
+                "altura_maxima": 3.0,
+                "comprimento_minimo": 9.0,
+                "comprimento_maximo": 10.0,
+                "peso_minimo": 3600,
+                "peso_maximo": 4500,
+                "tempo_minimo": 145,
+                "tempo_maximo": 152,
+                "velocidade": 29
+            },
+            "onde_viveu": "Estados Unidos, Uruguai, Tanzânia, Alemanha, Espanha, Inglaterra, Portugal"
+        },
+        {
+            "nome": {
+                "base": "Triceratops",
+                "genero": "Triceratops",
+                "especies": ["horridus", "prorsus"],
+                "significado": "Rosto com Três Chifres",
+                "sinonimos": ["Agathaumas", "Polyonax", "Bison alticornis", "Sterrholophus", "Claorhynchus", "Ugrosaurus"]
+            },
+            "comida": "Herbívoro",
+            "familia": "Ceratopsidae",
+            "imagem": {
+                "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2d01f931-5128-414a-97c7-ec5e31491855/dcuj7rp-b73abcb3-87bc-41e0-8fd1-2b6f0388a804.png/v1/fill/w_1222,h_654,strp/saurian_triceratops_transparen__by_jacksondeans_dcuj7rp-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njg1IiwicGF0aCI6IlwvZlwvMmQwMWY5MzEtNTEyOC00MTRhLTk3YzctZWM1ZTMxNDkxODU1XC9kY3VqN3JwLWI3M2FiY2IzLTg3YmMtNDFlMC04ZmQxLTJiNmYwMzg4YTgwNC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.LFztrES-sROcs6zMb4sXALichYyj8wCVkm3BWHAoiPI",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 2.3,
+                "altura_maxima": 3.0,
+                "comprimento_minimo": 8.0,
+                "comprimento_maximo": 9.0,
+                "peso_minimo": 5000,
+                "peso_maximo": 9000,
+                "tempo_minimo": 66,
+                "tempo_maximo": 68,
+                "velocidade": 20
+            },
+            "onde_viveu": "Canadá, Estados Unidos"
+        },
+        {
+            "nome": {
+                "base": "Tuojiangossauro",
+                "genero": "Tuojiangosaurus",
+                "especies": ["multispinus"],
+                "significado": "Lagarto do Rio Tuo"
+            },
+            "comida": "Herbívoro",
+            "familia": "Stegosauridae",
+            "imagem": {
+                "url": "https://66.media.tumblr.com/d8fb83cf6023f7cc84b534f66e391542/tumblr_inline_ptzsojgH1m1rx4yme_1280.png",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 2.5,
+                "altura_maxima": 2.5,
+                "comprimento_minimo": 6.5,
+                "comprimento_maximo": 7.0,
+                "peso_minimo": 2800,
+                "peso_maximo": 4000,
+                "tempo_minimo": 154,
+                "tempo_maximo": 161,
+                "velocidade": 20
+            },
+            "onde_viveu": "China"
+        },
+        {
+            "nome": {
+                "base": "Ubirajara",
+                "genero": "Ubirajara",
+                "especies": ["jubatus"],
+                "significado": "Senhor da Lança"
+            },
+            "comida": "Carnívoro/Insetívoro Raro",
+            "familia": "Compsognathidae",
+            "imagem": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/U._jubatus_Reconstruction.png/1200px-U._jubatus_Reconstruction.png",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 0.35,
+                "altura_maxima": 0.35,
+                "comprimento_minimo": 1.37,
+                "comprimento_maximo": 1.37,
+                "peso_minimo": 50,
+                "peso_maximo": 50,
+                "tempo_minimo": 110,
+                "tempo_maximo": 115,
+                "velocidade": 42
+            },
+            "onde_viveu": "Brasil"
+        },
+        {
+            "nome": {
+                "base": "Utahraptor",
+                "genero": "Utahraptor",
+                "especies": ["ostrommaysi"],
+                "significado": "Ladrão de Utah"
+            },
+            "comida": "Carnívoro",
+            "familia": "Dromaeosauridae",
+            "imagem": {
+                "url": "https://vignette.wikia.nocookie.net/dinosaurs/images/7/7f/Utahraptor_ostrommaysorum_for_wikipedia_by_fredthedinosaurman-dbq2uyf.png/revision/latest?cb=20180119075034",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 1.5,
+                "altura_maxima": 1.8,
+                "comprimento_minimo": 4.9,
+                "comprimento_maximo": 5.5,
+                "peso_minimo": 280,
+                "peso_maximo": 300,
+                "tempo_minimo": 71,
+                "tempo_maximo": 75,
+                "velocidade": 43
+            },
+            "onde_viveu": "Estados Unidos"
+        },
+        {
+            "nome": {
+                "base": "Velociraptor",
+                "genero": "Velociraptor",
+                "especies": ["mongoliensis"],
+                "significado": "Ladrão Veloz"
+            },
+            "comida": "Carnívoro",
+            "familia": "Dromaeosauridae",
+            "imagem": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Velociraptor_Restoration.png",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 0.5,
+                "altura_maxima": 0.7,
+                "comprimento_minimo": 1.5,
+                "comprimento_maximo": 2.0,
+                "peso_minimo": 14,
+                "peso_maximo": 19,
+                "tempo_minimo": 71,
+                "tempo_maximo": 75,
+                "velocidade": 38
+            },
+            "onde_viveu": "China, Mongólia"
+        },
+        {
+            "nome": {
+                "base": "Yutirano",
+                "genero": "Yutyrannus",
+                "especies": ["huali"],
+                "significado": "Tirano Emplumado"
+            },
+            "comida": "Carnívoro",
+            "familia": "Tyrannosauroidea",
+            "imagem": {
+                "url": "https://imgix.bustle.com/mic/vhrwel4jjrrhdl06kdxywia0x1xd5shxqtbbkglilypmjnejx2i4nwbfjrejsnv6.jpg?w=1020&h=576&fit=crop&crop=faces&auto=format&q=70",
+                "direitos": ""
+            },
+            "atributos": {
+                "altura_minima": 2.8,
+                "altura_maxima": 3.0,
+                "comprimento_minimo": 9.0,
+                "comprimento_maximo": 9.0,
+                "peso_minimo": 1400,
+                "peso_maximo": 2000,
+                "tempo_minimo": 120,
+                "tempo_maximo": 130,
+                "velocidade": 33
+            },
+            "onde_viveu": "China"
+        }
+    ]
+}
